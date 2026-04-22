@@ -19,11 +19,11 @@ This project implements a computational algorithm to reconstruct particle trajec
 
 ### Hough Space Representation
 
-![Hough Space](images/hough_space.png)
+![Hough Space](HoughSpace.png)
 
 ### Detected Particle Trajectories
 
-![Trajectories](images/trajectory_detection.png)
+![Trajectories](TrajectoryReconstruction.png)
 
 The algorithm shows high accuracy in ideal scenarios, but performance depends strongly on:
 
