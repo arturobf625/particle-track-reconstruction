@@ -11,8 +11,7 @@ This project implements a computational algorithm to reconstruct particle trajec
 
 ## Key Concepts
 
-- Mathematical modelling of trajectories (y = mx + b)
-- Monte Carlo simulation for detector effects
+- Mathematical modelling of trajectories 
 - Noise and efficiency modelling
 - Histogram-based voting system
 
