@@ -17,11 +17,19 @@ This project implements a computational algorithm to reconstruct particle trajec
 
 ## Results
 
-The algorithm performs with high accuracy in ideal conditions, but shows sensitivity to:
+### Hough Space Representation
 
-- Detector efficiency
-- Noise levels
-- Parameter tuning (bins, thresholds)
+![Hough Space](images/hough_space.png)
+
+### Detected Particle Trajectories
+
+![Trajectories](images/trajectory_detection.png)
+
+The algorithm shows high accuracy in ideal scenarios, but performance depends strongly on:
+
+- Detector efficiency  
+- Noise levels  
+- Parameter tuning (bins, thresholds)  
 
 ## Technologies
 
